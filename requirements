@@ -1,5 +1,4 @@
-streamlit 
-pickle 
-pandas 
-matplotlib 
-pillow 
+streamlit==1.40.1
+matplotlib
+pandas==2.2.3
+pickle
